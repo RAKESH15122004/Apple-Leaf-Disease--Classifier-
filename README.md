@@ -1,1 +1,1 @@
-# Apple-Leaf-Disease-Detection
+# Apple-Leaf-Disease- Classifier 
